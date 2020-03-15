@@ -14,11 +14,11 @@
       >
         <!-- 用户名 -->
         <el-form-item prop="username">
-          <el-input prefix-icon="el-icon-search" v-model="loginForm.username"></el-input>
+          <el-input prefix-icon="iconfont icon-yonghuming1" v-model="loginForm.username"></el-input>
         </el-form-item>
         <!-- 密码 -->
         <el-form-item prop="password">
-          <el-input prefix-icon="el-icon-search" v-model="loginForm.password" type="password"></el-input>
+          <el-input prefix-icon="iconfont icon-suo" v-model="loginForm.password" type="password"></el-input>
         </el-form-item>
         <!-- 按钮区域 -->
         <el-form-item class="btns">

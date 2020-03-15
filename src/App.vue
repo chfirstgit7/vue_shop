@@ -15,4 +15,5 @@ export default {
 
 <style>
 @import "./assets/css/global.css";
+@import "./assets/fonts/iconfont.css";
 </style>
